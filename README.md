@@ -41,5 +41,5 @@ This repository contains a variety of resources related to the project, includin
 ## Technologies
 
 * **Languages**: Python, JavaScript.
-* **Python libraries**: NumPy, Pandas, Matplotlib, Plotly scitkit-learn, Streamlit.
+* **Python libraries**: NumPy, Pandas, Matplotlib, Plotly, scitkit-learn, Streamlit
 * **Tools**: VS Code, Streamlit, Flask, React, Github, Discord
