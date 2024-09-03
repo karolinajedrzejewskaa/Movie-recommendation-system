@@ -8,7 +8,7 @@
 - [Technologies](#technologies)
 
 ## Description
-This GitHub repository contains a group project carried out during our Data Analysis course with World Code School. This project was developed by Luana, Patrick, Teddy, and me, focusing on the creation of a machine-learning-based program to suggest films based on user data by comparing the similarity of various measures with films in the given database. A user-friendly front-end application has also been developed.
+This GitHub repository contains a group project carried out during our Data Analysis course with Wild Code School. This project was developed by Luana, Patrick, Teddy, and me, focusing on the creation of a machine-learning-based program to suggest films based on user data by comparing the similarity of various measures with films in the given database. A user-friendly front-end application has also been developed.
 
 
 ## Project Stages
